@@ -1,6 +1,5 @@
 package com.greenfinal.controller;
 
-import com.greenfinal.service.UserinfoService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.boot.web.servlet.error.ErrorController;
 import org.springframework.security.core.annotation.AuthenticationPrincipal;
